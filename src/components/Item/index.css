@@ -1,0 +1,21 @@
+.li-container {
+  margin-top: 20px;
+  margin-right: 20px;
+  width: 15%;
+}
+.link-el {
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  text-decoration: none;
+}
+.image {
+  height: 75px;
+  width: 70px;
+  margin-right: 8px;
+}
+.paragraph {
+  color: #1e293b;
+  font-size: 18px;
+  font-family: 'Roboto';
+}
